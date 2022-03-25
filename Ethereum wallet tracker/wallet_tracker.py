@@ -24,19 +24,6 @@ def get_account_balance(address):
     return value
 
 
-'''
-https://api.etherscan.io/api
-   ?module=account
-   &action=txlistinternal
-   &address=0x2c1ba59d6f58433fb1eaee7d20b26ed83bda51a3
-   &startblock=0
-   &endblock=2702578
-   &page=1
-   &offset=10
-   &sort=asc
-   &apikey=YourApiKeyToken
-'''
-
 def get_transactions(address):
     transactions_url = make_api_url("account", "txlist", address, startblock=0, endblock=99999999, page=1, offset=10000, sort="asc")
     response = get(transactions_url)
