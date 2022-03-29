@@ -6,6 +6,7 @@ API_KEY = '34c3527fda4512e4ad6c'
 #to print out json file neater
 printer = PrettyPrinter()
 
+#get list of currencies from public API
 def get_currencies():
     endpoint = f"api/v7/currencies?apiKey={API_KEY}"
     url = BASE_URL + endpoint
@@ -16,6 +17,7 @@ def get_currencies():
 
     return data
 
+#print list of currencies from list of json
 def print_currencies(currencies):
     for name, currency in currencies:
         name = currency['currencyName']
@@ -24,6 +26,7 @@ def print_currencies(currencies):
         symbol = currency.get("currencySymbol", "")
         print(f"{_id} - {name} - {symbol}")
 
+#get exchange rate between 2 currencies selected by user input
 def exchange_rate(currency1, currency2):
     #more can be added to query but for now endpoint will make 1 request at a time
     endpoint = f"api/v7/convert?q={currency1}_{currency2}&compact=ultra&apiKey={API_KEY}"
@@ -39,6 +42,7 @@ def exchange_rate(currency1, currency2):
 
     return rate
 
+#from exchange rate, convert amount of one currency to another
 def convert(currency1, currency2, amount):
     rate = exchange_rate(currency1, currency2)
     if rate is None:
@@ -53,6 +57,7 @@ def convert(currency1, currency2, amount):
     print(f"{amount} {currency1} is equal to {converted_amount} {currency2}")
     return converted_amount
 
+#main program
 def main():
     currencies = get_currencies()
     def menu():
