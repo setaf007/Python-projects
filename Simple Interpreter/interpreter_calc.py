@@ -61,7 +61,7 @@ class Interpreter(object):
     
     def get_next_token(self):
         """
-        Lexical analyzer (aka scanner or tokenizer)
+        Lexical analyzer (also know as scanner or tokenizer)
         Method responsible for breaking a sentence apart into tokens one at a time
         """
         while self.current_char is not None:
