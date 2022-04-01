@@ -1,14 +1,11 @@
 #Token types
-from multiprocessing.sharedctypes import Value
-
-
-INTEGER, PLUS, MINUS, EOF = 'INTEGER', 'PLUS', 'MINUS', 'EOF'
+INTEGER, PLUS, MINUS, MUL, DIV, EOF = 'INTEGER', 'PLUS', 'MINUS', 'MUL', 'DIV', 'EOF'
 
 class Token(object):
     def __init__(self, type, value):
-        #token type: INTEGER, PLUS, MINUS OR EOF
+        #token type: INTEGER, PLUS, MINUS, MUL, DIV OR EOF
         self.type = type
-        #token value: non negative integer, +, - or None
+        #token value: non negative integer, +, -, *, / or None
         self.value = value
 
     #method called when print() or str() function invoked
@@ -26,18 +23,17 @@ class Token(object):
     def __repr__(self):
         return self.__str__()
 
-class Interpreter(object):
+class Lexer(object):
     def __init__(self, text):
         #user input text
         self.text = text
         #self.pos is index into self.text
         self.pos = 0
         #current token instance
-        self.current_token = None
         self.current_char = self.text[self.pos]
     
     def error(self):
-        raise Exception('Error parsing input')
+        raise Exception('Invalid character')
 
     def advance(self):
         #Advance pos pointer and set the current_char variable
@@ -80,9 +76,26 @@ class Interpreter(object):
                 self.advance()
                 return Token(MINUS, '-')
 
+            if self.current_char == '*':
+                self.advance()
+                return Token(MUL, '*')
+            
+            if self.current_char == '/':
+                self.advance()
+                return Token(DIV, '/')
+
             self.error()
         
         return Token(EOF, None)
+
+class Interpreter(object):
+    def __init__(self, lexer):
+        self.lexer = lexer
+        #set current token to 1st token from input
+        self.current_token = self.lexer.get_next_token()
+
+    def error(self):
+        raise Exception('Invalid syntax')
 
     def eat(self, token_type):
         """
@@ -90,37 +103,48 @@ class Interpreter(object):
         and assign the next token to the self.current_token, otherwise, raise exception
         """
         if self.current_token.type == token_type:
-            self.current_token = self.get_next_token()
+            self.current_token = self.lexer.get_next_token()
         else:
             self.error()
-        
+
+    def factor(self):
+        #factor : INTEGER
+        token = self.current_token
+        self.eat(INTEGER)
+        return token.value
+    
+    def term(self):
+        #term : factor((MUL | DIV) factor)*
+        result = self.factor()
+
+        while self.current_token.type in (MUL, DIV):
+            token = self.current_token
+            if token.type == MUL:
+                self.eat(MUL)
+                result = result * self.factor()
+            elif token.type == DIV:
+                self.eat(DIV)
+                result = result / self.factor()
+        return result
+
     def expr(self):
-        #expr -> INTEGER PLUS INTEGER
-        #set current token to the first token taken from the input
-        self.current_token = self.get_next_token()
-
-        #current token expected to be a single digit integer
-        left = self.current_token
-        self.eat(INTEGER)
-        #current token expected to be a '+' or '-' token
-        op = self.current_token
-        if op.type == PLUS:
-            self.eat(PLUS)
-        else:
-            self.eat(MINUS)
-        #current token expected to be a single digit integer
-        right = self.current_token
-        self.eat(INTEGER)
-
         """
-        after the above call, self.current_token is set to EOF token
-        at this point, INTEGER PLUS/MINUS INTEGER sequence of tokens has been successfull found and the method
-        can just return the result of adding two integers, successfully interpreting user input
+        Arithmetic expression parser/ interpreter
+        expr : term ((PLUS | MINUS) term)*
+        term : factor ((MUL | DIV) factor)*
+        factor : INTEGER
         """
-        if op.type == PLUS:
-            result = left.value + right.value
-        else:
-            result = left.value - right.value
+        
+        result = self.term()
+
+        while self.current_token.type in (PLUS, MINUS):
+            token = self.current_token
+            if token.type == PLUS:
+                self.eat(PLUS)
+                result = result + self.term()
+            elif token.type == MINUS:
+                self.eat(MINUS)
+                result = result - self.term()
 
         return result
 
@@ -132,7 +156,8 @@ def main():
             break
         if not text:
             continue
-        interpreter = Interpreter(text)
+        lexer = Lexer(text)
+        interpreter = Interpreter(lexer)
         result = interpreter.expr()
         print (result)
 
