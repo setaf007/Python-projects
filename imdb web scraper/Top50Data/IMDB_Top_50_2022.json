@@ -1,0 +1,706 @@
+{
+    "1": {
+        "name": "Death on the Nile",
+        "certificate": "PG13",
+        "runtime": "127 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "While on vacation on the Nile, Hercule Poirot must investigate the murder of a young heiress.",
+        "director": "Kenneth Branagh",
+        "stars": [
+            "Tom Bateman",
+            "Annette Bening",
+            "Kenneth Branagh",
+            "Russell Brand"
+        ]
+    },
+    "2": {
+        "name": "Morbius",
+        "certificate": "PG13",
+        "runtime": "104 min",
+        "genre": "Action, Adventure, Horror",
+        "description": "Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism instead.",
+        "director": "Daniel Espinosa",
+        "stars": [
+            "Jared Leto",
+            "Matt Smith",
+            "Adria Arjona",
+            "Jared Harris"
+        ]
+    },
+    "3": {
+        "name": "The Batman",
+        "certificate": "PG13",
+        "runtime": "176 min",
+        "genre": "Action, Crime, Drama",
+        "description": "When the Riddler, a sadistic serial killer, begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+        "director": "Matt Reeves",
+        "stars": [
+            "Robert Pattinson",
+            "Zo\u00eb Kravitz",
+            "Jeffrey Wright",
+            "Colin Farrell"
+        ]
+    },
+    "4": {
+        "name": "RRR (Rise Roar Revolt)",
+        "certificate": "NC16",
+        "runtime": "187 min",
+        "genre": "Action, Drama",
+        "description": "A fictitious story about two legendary revolutionaries and their journey away from home before they started fighting for their country in 1920's.",
+        "director": "S.S. Rajamouli",
+        "stars": [
+            "N.T. Rama Rao Jr.",
+            "Ram Charan",
+            "Ajay Devgn",
+            "Alia Bhatt"
+        ]
+    },
+    "5": {
+        "name": "X",
+        "certificate": "R",
+        "runtime": "105 min",
+        "genre": "Horror",
+        "description": "In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.",
+        "director": "Ti West",
+        "stars": [
+            "Mia Goth",
+            "Jenna Ortega",
+            "Brittany Snow",
+            "Kid Cudi"
+        ]
+    },
+    "6": {
+        "name": "Top Gun: Maverick",
+        "certificate": "PG-13",
+        "runtime": "",
+        "genre": "Action, Drama",
+        "description": "After more than thirty years of service as one of the Navy's top aviators, Pete Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him.",
+        "director": "Joseph Kosinski",
+        "stars": [
+            "Tom Cruise",
+            "Jennifer Connelly",
+            "Miles Teller",
+            "Val Kilmer"
+        ]
+    },
+    "7": {
+        "name": "Deep Water",
+        "certificate": "M18",
+        "runtime": "115 min",
+        "genre": "Drama, Mystery, Thriller",
+        "description": "A well-to-do husband who allows his wife to have affairs in order to avoid a divorce becomes a prime suspect in the disappearance of her lovers.",
+        "director": "Adrian Lyne",
+        "stars": [
+            "Ben Affleck",
+            "Ana de Armas",
+            "Tracy Letts",
+            "Grace Jenkins"
+        ]
+    },
+    "8": {
+        "name": "The Lost City",
+        "certificate": "PG13",
+        "runtime": "112 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "A reclusive romance novelist on a book tour with her cover model gets swept up in a kidnapping attempt that lands them both in a cutthroat jungle adventure.",
+        "director": "Aaron Nee",
+        "stars": [
+            "Adam Nee",
+            "Sandra Bullock",
+            "Channing Tatum",
+            "Daniel Radcliffe",
+            "Da'Vine Joy Randolph"
+        ]
+    },
+    "9": {
+        "name": "The Adam Project",
+        "certificate": "PG13",
+        "runtime": "106 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self for a mission to save the future.",
+        "director": "Shawn Levy",
+        "stars": [
+            "Ryan Reynolds",
+            "Walker Scobell",
+            "Mark Ruffalo",
+            "Jennifer Garner"
+        ]
+    },
+    "10": {
+        "name": "Moonfall",
+        "certificate": "PG13",
+        "runtime": "130 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "A mysterious force knocks the moon from its orbit around Earth and sends it hurtling on a collision course with life as we know it.",
+        "director": "Roland Emmerich",
+        "stars": [
+            "Halle Berry",
+            "Patrick Wilson",
+            "John Bradley",
+            "Charlie Plummer"
+        ]
+    },
+    "11": {
+        "name": "The Bubble",
+        "certificate": "R21",
+        "runtime": "126 min",
+        "genre": "Comedy",
+        "description": "A group of actors and actresses stuck inside a pandemic bubble at a hotel attempts to complete a film.",
+        "director": "Judd Apatow",
+        "stars": [
+            "Harry Trevaldwyn",
+            "Samson Kayo",
+            "Peter Serafinowicz",
+            "Danielle Vitalis"
+        ]
+    },
+    "12": {
+        "name": "Turning Red",
+        "certificate": "PG",
+        "runtime": "100 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "A 13-year-old girl named Meilin turns into a giant red panda whenever she gets too excited.",
+        "director": "Domee Shi",
+        "stars": [
+            "Rosalie Chiang",
+            "Sandra Oh",
+            "Ava Morse",
+            "Hyein Park"
+        ]
+    },
+    "13": {
+        "name": "Everything Everywhere All at Once",
+        "certificate": "M18",
+        "runtime": "139 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save the world by exploring other universes connecting with the lives she could have led.",
+        "director": "Dan Kwan",
+        "stars": [
+            "Daniel Scheinert",
+            "Michelle Yeoh",
+            "Stephanie Hsu",
+            "Ke Huy Quan",
+            "James Hong"
+        ]
+    },
+    "14": {
+        "name": "The Northman",
+        "certificate": "R",
+        "runtime": "136 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "From visionary director Robert Eggers comes The Northman, an action-filled epic that follows a young Viking prince on his quest to avenge his father's murder.",
+        "director": "Robert Eggers",
+        "stars": [
+            "Alexander Skarsg\u00e5rd",
+            "Nicole Kidman",
+            "Claes Bang",
+            "Ethan Hawke"
+        ]
+    },
+    "15": {
+        "name": "Ambulance",
+        "certificate": "NC16",
+        "runtime": "136 min",
+        "genre": "Action, Crime, Drama",
+        "description": "Two robbers steal an ambulance after their heist goes awry.",
+        "director": "Michael Bay",
+        "stars": [
+            "Jake Gyllenhaal",
+            "Yahya Abdul-Mateen II",
+            "Eiza Gonz\u00e1lez",
+            "Garret Dillahunt"
+        ]
+    },
+    "16": {
+        "name": "Fresh",
+        "certificate": "R21",
+        "runtime": "114 min",
+        "genre": "Comedy, Horror, Thriller",
+        "description": "The horrors of modern dating seen through one young woman's defiant battle to survive her new boyfriend's unusual appetites.",
+        "director": "Mimi Cave",
+        "stars": [
+            "Daisy Edgar-Jones",
+            "Sebastian Stan",
+            "Jojo T. Gibbs",
+            "Andrea Bang"
+        ]
+    },
+    "17": {
+        "name": "Sonic the Hedgehog 2",
+        "certificate": "PG",
+        "runtime": "122 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "When the manic Dr Robotnik returns to Earth with a new ally, Knuckles the Echidna, Sonic and his new friend Tails is all that stands in their way.",
+        "director": "Jeff Fowler",
+        "stars": [
+            "Ben Schwartz",
+            "Idris Elba",
+            "Colleen O'Shaughnessey",
+            "Jim Carrey"
+        ]
+    },
+    "18": {
+        "name": "Windfall",
+        "certificate": "M18",
+        "runtime": "92 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "A man breaks into a tech billionaire's empty vacation home, but things go sideways when the arrogant mogul and his wife arrive for a last-minute getaway.",
+        "director": "Charlie McDowell",
+        "stars": [
+            "Jason Segel",
+            "Lily Collins",
+            "Jesse Plemons",
+            "Omar Leyva"
+        ]
+    },
+    "19": {
+        "name": "Fantastic Beasts: The Secrets of Dumbledore",
+        "certificate": "PG13",
+        "runtime": "142 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "The third installment of \"Fantastic Beasts and Where to Find Them,\" which follows the continuing adventures of Newt Scamander.",
+        "director": "David Yates",
+        "stars": [
+            "Eddie Redmayne",
+            "Jude Law",
+            "Ezra Miller",
+            "Dan Fogler"
+        ]
+    },
+    "20": {
+        "name": "The Contractor",
+        "certificate": "NC16",
+        "runtime": "103 min",
+        "genre": "Action, Thriller",
+        "description": "A discharged U.S. Special Forces sergeant, James Harper, risks everything for his family when he joins a private contracting organization.",
+        "director": "Tarik Saleh",
+        "stars": [
+            "Chris Pine",
+            "Gillian Jacobs",
+            "Sander Thomas",
+            "Toby Dixon"
+        ]
+    },
+    "21": {
+        "name": "Svart krabba",
+        "certificate": "M18",
+        "runtime": "114 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "In a post-apocalyptic world, six soldiers on a covert mission must transport a mysterious package across a frozen archipelago. Noomi Rapace stars.",
+        "director": "Adam Berg",
+        "stars": [
+            "Noomi Rapace",
+            "Aliette Opheim",
+            "David Dencik",
+            "Jakob Oftebro"
+        ]
+    },
+    "22": {
+        "name": "The Unbearable Weight of Massive Talent",
+        "certificate": "R",
+        "runtime": "105 min",
+        "genre": "Action, Comedy, Crime",
+        "description": "A cash-strapped Nicolas Cage agrees to make a paid appearance at a billionaire super fan's birthday party, but is really an informant for the CIA since the billionaire fan is a drug kingpin and gets cast in a Tarantino movie.",
+        "director": "Tom Gormican",
+        "stars": [
+            "Nicolas Cage",
+            "Demi Moore",
+            "Pedro Pascal",
+            "Tiffany Haddish"
+        ]
+    },
+    "23": {
+        "name": "Uncharted",
+        "certificate": "PG",
+        "runtime": "116 min",
+        "genre": "Action, Adventure",
+        "description": "Street-smart Nathan Drake is recruited by seasoned treasure hunter Victor \"Sully\" Sullivan to recover a fortune amassed by Ferdinand Magellan, and lost 500 years ago by the House of Moncada.",
+        "director": "Ruben Fleischer",
+        "stars": [
+            "Tom Holland",
+            "Mark Wahlberg",
+            "Antonio Banderas",
+            "Sophia Ali"
+        ]
+    },
+    "24": {
+        "name": "Moonshot",
+        "certificate": "NC16",
+        "runtime": "104 min",
+        "genre": "Comedy, Romance, Sci-Fi",
+        "description": "This romantic comedy with a twist follows two college students as they join forces in order to be reunited with their significant others, embarking on a lively journey that takes them wildly off course.",
+        "director": "Christopher Winterbauer",
+        "stars": [
+            "Cole Sprouse",
+            "Zach Braff",
+            "Peter Woodward",
+            "Henson Milam"
+        ]
+    },
+    "25": {
+        "name": "Scream",
+        "certificate": "M18",
+        "runtime": "114 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "25 years after a streak of brutal murders shocked the quiet town of Woodsboro, Calif., a new killer dons the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town's deadly past.",
+        "director": "Matt Bettinelli-Olpin",
+        "stars": [
+            "Tyler Gillett",
+            "Neve Campbell",
+            "Courteney Cox",
+            "David Arquette",
+            "Melissa Barrera"
+        ]
+    },
+    "26": {
+        "name": "Doctor Strange in the Multiverse of Madness",
+        "certificate": "",
+        "runtime": "126 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "Dr. Stephen Strange casts a forbidden spell that opens the doorway to the multiverse, including a alternate versions of himself, whose threat to humanity is too great for the combined forces of Strange, Wong, and Wanda Maximoff.",
+        "director": "Sam Raimi",
+        "stars": [
+            "Benedict Cumberbatch",
+            "Rachel McAdams",
+            "Elizabeth Olsen",
+            "Patrick Stewart"
+        ]
+    },
+    "27": {
+        "name": "Dog",
+        "certificate": "PG13",
+        "runtime": "101 min",
+        "genre": "Comedy",
+        "description": "Two former Army Rangers are paired against their will on the road trip of a lifetime. Briggs (Channing Tatum) and Lulu (a Belgian Malinois) race down the Pacific Coast to get to a fellow soldier's funeral on time.",
+        "director": "Reid Carolin",
+        "stars": [
+            "Channing Tatum",
+            "Channing Tatum",
+            "Ryder McLaughlin",
+            "Aavi Haas",
+            "Luke Forbes"
+        ]
+    },
+    "28": {
+        "name": "The Kashmir Files",
+        "certificate": "",
+        "runtime": "170 min",
+        "genre": "",
+        "description": "The Kashmir Files' is a story, based on video interviews of the first generation victims of the Genocide of Kashmiri Pandit Community In 1990.",
+        "director": "Vivek Agnihotri",
+        "stars": [
+            "Mithun Chakraborty",
+            "Anupam Kher",
+            "Darshan Kumaar",
+            "Pallavi Joshi"
+        ]
+    },
+    "29": {
+        "name": "Men",
+        "certificate": "R",
+        "runtime": "",
+        "genre": "Drama, Horror, Sci-Fi",
+        "description": "A young woman goes on a solo vacation to the English countryside following the death of her ex-husband.",
+        "director": "Alex Garland",
+        "stars": [
+            "Jessie Buckley",
+            "Rory Kinnear",
+            "Gayle Rankin",
+            "Paapa Essiedu"
+        ]
+    },
+    "30": {
+        "name": "The Bad Guys",
+        "certificate": "PG",
+        "runtime": "100 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "Several reformed yet misunderstood criminal animals attempt to become good, with some disastrous results along the way.",
+        "director": "Pierre Perifel",
+        "stars": [
+            "Sam Rockwell",
+            "Marc Maron",
+            "Awkwafina",
+            "Craig Robinson"
+        ]
+    },
+    "31": {
+        "name": "Where the Crawdads Sing",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Drama, Mystery",
+        "description": "A woman who raised herself in the marshes of the deep South becomes a suspect in the murder of a man she was once involved with.",
+        "director": "Olivia Newman",
+        "stars": [
+            "Daisy Edgar-Jones",
+            "Harris Dickinson",
+            "David Strathairn",
+            "Garret Dillahunt"
+        ]
+    },
+    "32": {
+        "name": "Cheaper by the Dozen",
+        "certificate": "PG",
+        "runtime": "107 min",
+        "genre": "Adventure, Comedy, Family",
+        "description": "The raucous exploits of a blended family of 12, the Bakers, as they navigate a hectic home life while simultaneously managing their family business.",
+        "director": "Gail Lerner",
+        "stars": [
+            "Gabrielle Union",
+            "Zach Braff",
+            "Erika Christensen",
+            "Timon Kyle Durrett"
+        ]
+    },
+    "33": {
+        "name": "Studio 666",
+        "certificate": "R",
+        "runtime": "106 min",
+        "genre": "Comedy, Horror, Music",
+        "description": "Legendary rock band Foo Fighters move into an Encino mansion steeped in grisly rock and roll history to record their much anticipated 10th album.",
+        "director": "BJ McDonnell",
+        "stars": [
+            "Dave Grohl",
+            "Nate Mendel",
+            "Pat Smear",
+            "Taylor Hawkins"
+        ]
+    },
+    "34": {
+        "name": "The Outfit",
+        "certificate": "R",
+        "runtime": "105 min",
+        "genre": "Crime, Drama",
+        "description": "An expert tailor must outwit a dangerous group of mobsters in order to survive a fateful night.",
+        "director": "Graham Moore",
+        "stars": [
+            "Mark Rylance",
+            "Zoey Deutch",
+            "Dylan O'Brien",
+            "Johnny Flynn"
+        ]
+    },
+    "35": {
+        "name": "Blacklight",
+        "certificate": "PG13",
+        "runtime": "104 min",
+        "genre": "Action, Thriller",
+        "description": "Travis Block is a government operative coming to terms with his shadowy past. When he discovers a plot targeting U.S. citizens, Block finds himself in the crosshairs of the FBI director he once helped protect.",
+        "director": "Mark Williams",
+        "stars": [
+            "Liam Neeson",
+            "Aidan Quinn",
+            "Taylor John Smith",
+            "Emmy Raver-Lampman"
+        ]
+    },
+    "36": {
+        "name": "Father Stu",
+        "certificate": "R",
+        "runtime": "124 min",
+        "genre": "Drama",
+        "description": "Follows the life of Father Stuart Long, a boxer-turned-priest who inspired countless people during his journey from self-destruction to redemption.",
+        "director": "Rosalind Ross",
+        "stars": [
+            "Mel Gibson",
+            "Mark Wahlberg",
+            "Jacki Weaver",
+            "Winter Ave Zoli"
+        ]
+    },
+    "37": {
+        "name": "Killers of the Flower Moon",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Crime, Drama, History",
+        "description": "Members of the Osage tribe in the United States are murdered under mysterious circumstances in the 1920s sparking a major F.B.I. investigation involving J. Edgar Hoover.",
+        "director": "Martin Scorsese",
+        "stars": [
+            "Jesse Plemons",
+            "Leonardo DiCaprio",
+            "Robert De Niro",
+            "Brendan Fraser"
+        ]
+    },
+    "38": {
+        "name": "Thor: Love and Thunder",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "The sequel to Thor: Ragnarok and the fourth movie in the Thor saga.",
+        "director": "Taika Waititi",
+        "stars": [
+            "Taika Waititi",
+            "Karen Gillan",
+            "Christian Bale",
+            "Natalie Portman"
+        ]
+    },
+    "39": {
+        "name": "Avatar 2",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Jake Sully lives with his newfound family formed on the planet of Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their planet.",
+        "director": "James Cameron",
+        "stars": [
+            "Zoe Saldana",
+            "Michelle Yeoh",
+            "Oona Chaplin",
+            "Kate Winslet"
+        ]
+    },
+    "40": {
+        "name": "The Weekend Away",
+        "certificate": "NC16",
+        "runtime": "89 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "A weekend getaway to Croatia that goes awry when a woman is accused of killing her best friend. As she attempts to clear her name and uncover the truth, her efforts unearth a painful secret.",
+        "director": "Kim Farrant",
+        "stars": [
+            "Leighton Meester",
+            "Christina Wolfe",
+            "Ziad Bakri",
+            "Luke Norris"
+        ]
+    },
+    "41": {
+        "name": "A Day to Die",
+        "certificate": "R",
+        "runtime": "105 min",
+        "genre": "Action",
+        "description": "Connor Connolly has one day to pay reparations to Tyrone Pettis. He is forced to ask his old military ops crew, led by Brice Mason, to come together to get him two million dollars before he loses everyone he loves in the process.",
+        "director": "Wes Miller",
+        "stars": [
+            "Kevin Dillon",
+            "Bruce Willis",
+            "Gianni Capaldi",
+            "Brooke Butler"
+        ]
+    },
+    "42": {
+        "name": "Rescued by Ruby",
+        "certificate": "PG",
+        "runtime": "90 min",
+        "genre": "Biography, Drama, Family",
+        "description": "Chasing his dream to join an elite K-9 unit, a state trooper partners with a fellow underdog: clever but naughty shelter pup Ruby.",
+        "director": "Katt Shea",
+        "stars": [
+            "Grant Gustin",
+            "Scott Wolf",
+            "Kaylah Zander",
+            "Camille Sullivan"
+        ]
+    },
+    "43": {
+        "name": "Better Nate Than Ever",
+        "certificate": "PG13",
+        "runtime": "94 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "13-year-old Nate Foster fantasizes about becoming a big Broadway star. He and his best friend Litty mastermind a daring trip to New York City to audition for \"Lilo and Stitch: The Musical\".",
+        "director": "Tim Federle",
+        "stars": [
+            "Rueby Wood",
+            "Joshua Bassett",
+            "Aria Brooks",
+            "Michelle Federer"
+        ]
+    },
+    "44": {
+        "name": "The 355",
+        "certificate": "PG13",
+        "runtime": "122 min",
+        "genre": "Action, Thriller",
+        "description": "When a top-secret weapon falls into mercenary hands, a wild card CIA agent joins forces with three international agents on a lethal mission to retrieve it, while staying a step ahead of a mysterious woman who's tracking their every move.",
+        "director": "Simon Kinberg",
+        "stars": [
+            "Jessica Chastain",
+            "Pen\u00e9lope Cruz",
+            "Bingbing Fan",
+            "Diane Kruger"
+        ]
+    },
+    "45": {
+        "name": "So Cold the River",
+        "certificate": "R",
+        "runtime": "95 min",
+        "genre": "Drama, Horror, Thriller",
+        "description": "A documentary filmmaker's research on a town's mysterious benefactor unearths an unexplained evil while staying at a local resort.",
+        "director": "Paul Shoulberg",
+        "stars": [
+            "Bethany Joy Lenz",
+            "Alysia Reiner",
+            "Andrew J. West",
+            "Katie Sarife"
+        ]
+    },
+    "46": {
+        "name": "No Exit",
+        "certificate": "M18",
+        "runtime": "95 min",
+        "genre": "Drama, Mystery, Thriller",
+        "description": "During a blizzard and stranded at an isolated highway rest stop in the mountains, a college student discovers a kidnapped child hidden in a car belonging to one of the people inside.",
+        "director": "Damien Power",
+        "stars": [
+            "Havana Rose Liu",
+            "Danny Ramirez",
+            "David Rysdahl",
+            "Mila Harris"
+        ]
+    },
+    "47": {
+        "name": "Against the Ice",
+        "certificate": "NC16",
+        "runtime": "102 min",
+        "genre": "Adventure, Drama, History",
+        "description": "In 1909, two explorers fight to survive after they're left behind while on a Denmark expedition in ice-covered Greenland.",
+        "director": "Peter Flinth",
+        "stars": [
+            "Nikolaj Coster-Waldau",
+            "Joe Cole",
+            "Heida Reed",
+            "\u00deorsteinn Bachmann"
+        ]
+    },
+    "48": {
+        "name": "Blonde",
+        "certificate": "NC-17",
+        "runtime": "",
+        "genre": "Biography, Drama, Mystery",
+        "description": "A fictionalized chronicle of the inner life of Marilyn Monroe.",
+        "director": "Andrew Dominik",
+        "stars": [
+            "Ana de Armas",
+            "Adrien Brody",
+            "Bobby Cannavale",
+            "Julianne Nicholson"
+        ]
+    },
+    "49": {
+        "name": "Panama",
+        "certificate": "R",
+        "runtime": "94 min",
+        "genre": "Action, Thriller",
+        "description": "An ex-marine is hired by a defense contractor to travel to Panama to complete an arms deal. In the process he becomes involved with the U.S. invasion of Panama, and learns an important lesson about the true nature of political power.",
+        "director": "Mark Neveldine",
+        "stars": [
+            "Cole Hauser",
+            "Mel Gibson",
+            "Kiara Liz",
+            "Jackie Cruz"
+        ]
+    },
+    "50": {
+        "name": "Infinite Storm",
+        "certificate": "R",
+        "runtime": "97 min",
+        "genre": "Drama, Thriller",
+        "description": "When a climber gets caught in a blizzard, she encounters a stranded stranger and must get them both down the mountain before nightfall.",
+        "director": "Malgorzata Szumowska",
+        "stars": [
+            "Naomi Watts",
+            "Denis O'Hare",
+            "Billy Howle",
+            "Eliot Sumner"
+        ]
+    }
+}

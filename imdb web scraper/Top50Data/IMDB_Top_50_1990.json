@@ -1,0 +1,705 @@
+{
+    "1": {
+        "name": "Goodfellas",
+        "certificate": "M18",
+        "runtime": "145 min",
+        "genre": "Biography, Crime, Drama",
+        "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+        "director": "Martin Scorsese",
+        "stars": [
+            "Robert De Niro",
+            "Ray Liotta",
+            "Joe Pesci",
+            "Lorraine Bracco"
+        ]
+    },
+    "2": {
+        "name": "The Godfather: Part III",
+        "certificate": "PG",
+        "runtime": "162 min",
+        "genre": "Crime, Drama",
+        "description": "Follows Michael Corleone, now in his 60s, as he seeks to free his family from crime and find a suitable successor to his empire.",
+        "director": "Francis Ford Coppola",
+        "stars": [
+            "Al Pacino",
+            "Diane Keaton",
+            "Andy Garcia",
+            "Talia Shire"
+        ]
+    },
+    "3": {
+        "name": "Pretty Woman",
+        "certificate": "PG",
+        "runtime": "119 min",
+        "genre": "Comedy, Romance",
+        "description": "A man in a legal but hurtful business needs an escort for some social events, and hires a beautiful prostitute he meets... only to fall in love.",
+        "director": "Garry Marshall",
+        "stars": [
+            "Richard Gere",
+            "Julia Roberts",
+            "Jason Alexander",
+            "Laura San Giacomo"
+        ]
+    },
+    "4": {
+        "name": "Dances with Wolves",
+        "certificate": "PG",
+        "runtime": "181 min",
+        "genre": "Adventure, Drama, Western",
+        "description": "Lieutenant John Dunbar, assigned to a remote western Civil War outpost, befriends wolves and Native Americans, making him an intolerable aberration in the military.",
+        "director": "Kevin Costner",
+        "stars": [
+            "Kevin Costner",
+            "Mary McDonnell",
+            "Graham Greene",
+            "Rodney A. Grant"
+        ]
+    },
+    "5": {
+        "name": "Home Alone",
+        "certificate": "PG",
+        "runtime": "103 min",
+        "genre": "Comedy, Family",
+        "description": "An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.",
+        "director": "Chris Columbus",
+        "stars": [
+            "Macaulay Culkin",
+            "Joe Pesci",
+            "Daniel Stern",
+            "John Heard"
+        ]
+    },
+    "6": {
+        "name": "Total Recall",
+        "certificate": "M18",
+        "runtime": "113 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "When a man goes in to have virtual vacation memories of the planet Mars implanted in his mind, an unexpected and harrowing series of events forces him to go to the planet for real - or is he?",
+        "director": "Paul Verhoeven",
+        "stars": [
+            "Arnold Schwarzenegger",
+            "Sharon Stone",
+            "Michael Ironside",
+            "Rachel Ticotin"
+        ]
+    },
+    "7": {
+        "name": "The Hunt for Red October",
+        "certificate": "PG",
+        "runtime": "135 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "In November 1984, the Soviet Union's best submarine captain, in a new undetectable sub, violates orders and heads for the U.S. The American CIA and military must quickly determine: Is he trying to defect, or to start a war?",
+        "director": "John McTiernan",
+        "stars": [
+            "Sean Connery",
+            "Alec Baldwin",
+            "Scott Glenn",
+            "Sam Neill"
+        ]
+    },
+    "8": {
+        "name": "Ghost",
+        "certificate": "PG",
+        "runtime": "127 min",
+        "genre": "Drama, Fantasy, Romance",
+        "description": "After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.",
+        "director": "Jerry Zucker",
+        "stars": [
+            "Patrick Swayze",
+            "Demi Moore",
+            "Whoopi Goldberg",
+            "Tony Goldwyn"
+        ]
+    },
+    "9": {
+        "name": "Teenage Mutant Ninja Turtles",
+        "certificate": "PG",
+        "runtime": "93 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "Four teenage mutant ninja turtles emerge from the shadows to protect New York City from a gang of criminal ninjas.",
+        "director": "Steve Barron",
+        "stars": [
+            "Judith Hoag",
+            "Elias Koteas",
+            "Josh Pais",
+            "David Forman"
+        ]
+    },
+    "10": {
+        "name": "Misery",
+        "certificate": "NC-16",
+        "runtime": "107 min",
+        "genre": "Drama, Thriller",
+        "description": "After a famous author is rescued from a car crash by a fan of his novels, he comes to realize that the care he is receiving is only the beginning of a nightmare of captivity and abuse.",
+        "director": "Rob Reiner",
+        "stars": [
+            "James Caan",
+            "Kathy Bates",
+            "Richard Farnsworth",
+            "Frances Sternhagen"
+        ]
+    },
+    "11": {
+        "name": "Darkman",
+        "certificate": "PG",
+        "runtime": "96 min",
+        "genre": "Action, Sci-Fi, Thriller",
+        "description": "A brilliant scientist left for dead returns to exact revenge on the people who burned him alive.",
+        "director": "Sam Raimi",
+        "stars": [
+            "Liam Neeson",
+            "Frances McDormand",
+            "Colin Friels",
+            "Larry Drake"
+        ]
+    },
+    "12": {
+        "name": "Die Hard 2",
+        "certificate": "M18",
+        "runtime": "124 min",
+        "genre": "Action, Thriller",
+        "description": "John McClane attempts to avert disaster as rogue military operatives seize control of Dulles International Airport in Washington, D.C.",
+        "director": "Renny Harlin",
+        "stars": [
+            "Bruce Willis",
+            "William Atherton",
+            "Bonnie Bedelia",
+            "Reginald VelJohnson"
+        ]
+    },
+    "13": {
+        "name": "Dick Tracy",
+        "certificate": "PG",
+        "runtime": "105 min",
+        "genre": "Action, Comedy, Crime",
+        "description": "The comic strip detective finds his life vastly complicated when Breathless Mahoney makes advances towards him while he is trying to battle Big Boy Caprice's united mob.",
+        "director": "Warren Beatty",
+        "stars": [
+            "Warren Beatty",
+            "Madonna",
+            "Al Pacino",
+            "Charlie Korsmo"
+        ]
+    },
+    "14": {
+        "name": "Tremors",
+        "certificate": "PG",
+        "runtime": "96 min",
+        "genre": "Comedy, Horror",
+        "description": "Natives of a small isolated town defend themselves against strange underground creatures which are killing them one by one.",
+        "director": "Ron Underwood",
+        "stars": [
+            "Kevin Bacon",
+            "Fred Ward",
+            "Finn Carter",
+            "Michael Gross"
+        ]
+    },
+    "15": {
+        "name": "Edward Scissorhands",
+        "certificate": "PG",
+        "runtime": "105 min",
+        "genre": "Drama, Fantasy, Romance",
+        "description": "An artificial man, who was incompletely constructed and has scissors for hands, leads a solitary life. Then one day, a suburban lady meets him and introduces him to her world.",
+        "director": "Tim Burton",
+        "stars": [
+            "Johnny Depp",
+            "Winona Ryder",
+            "Dianne Wiest",
+            "Anthony Michael Hall"
+        ]
+    },
+    "16": {
+        "name": "Kindergarten Cop",
+        "certificate": "PG",
+        "runtime": "111 min",
+        "genre": "Action, Comedy, Crime",
+        "description": "A tough cop must pose as a kindergarten teacher in order to locate a dangerous criminal's ex-wife, who may hold the key to putting him behind bars.",
+        "director": "Ivan Reitman",
+        "stars": [
+            "Arnold Schwarzenegger",
+            "Penelope Ann Miller",
+            "Pamela Reed",
+            "Linda Hunt"
+        ]
+    },
+    "17": {
+        "name": "Wild at Heart",
+        "certificate": "M18",
+        "runtime": "125 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "Young lovers Sailor and Lula run from the variety of weirdos that Lula's mom has hired to kill Sailor.",
+        "director": "David Lynch",
+        "stars": [
+            "Nicolas Cage",
+            "Laura Dern",
+            "Willem Dafoe",
+            "J.E. Freeman"
+        ]
+    },
+    "18": {
+        "name": "Jacob's Ladder",
+        "certificate": "",
+        "runtime": "113 min",
+        "genre": "Drama, Horror, Mystery",
+        "description": "Mourning his dead child, a haunted Vietnam War veteran attempts to uncover his past while suffering from a severe case of dissociation. To do so, he must decipher reality and life from his own dreams, delusions, and perceptions of death.",
+        "director": "Adrian Lyne",
+        "stars": [
+            "Tim Robbins",
+            "Elizabeth Pe\u00f1a",
+            "Danny Aiello",
+            "Matt Craven"
+        ]
+    },
+    "19": {
+        "name": "RoboCop 2",
+        "certificate": "NC-16",
+        "runtime": "117 min",
+        "genre": "Action, Crime, Sci-Fi",
+        "description": "RoboCop returns to protect the citizens of old Detroit but faces a deadly challenge when a rogue OCP member secretly creates a new, evil RoboCop 2.",
+        "director": "Irvin Kershner",
+        "stars": [
+            "Peter Weller",
+            "Nancy Allen",
+            "Belinda Bauer",
+            "Dan O'Herlihy"
+        ]
+    },
+    "20": {
+        "name": "Predator 2",
+        "certificate": "M18",
+        "runtime": "108 min",
+        "genre": "Action, Horror, Sci-Fi",
+        "description": "The Predator returns to Earth, this time to stake a claim on the war-torn streets of a dystopian Los Angeles.",
+        "director": "Stephen Hopkins",
+        "stars": [
+            "Danny Glover",
+            "Gary Busey",
+            "Kevin Peter Hall",
+            "Rub\u00e9n Blades"
+        ]
+    },
+    "21": {
+        "name": "Back to the Future Part III",
+        "certificate": "PG",
+        "runtime": "118 min",
+        "genre": "Adventure, Comedy, Sci-Fi",
+        "description": "Stranded in 1955, Marty McFly learns about the death of Doc Brown in 1885 and must travel back in time to save him. With no fuel readily available for the DeLorean, the two must figure how to escape the Old West before Emmett is murdered.",
+        "director": "Robert Zemeckis",
+        "stars": [
+            "Michael J. Fox",
+            "Christopher Lloyd",
+            "Mary Steenburgen",
+            "Tom Wilson"
+        ]
+    },
+    "22": {
+        "name": "Days of Thunder",
+        "certificate": "PG",
+        "runtime": "107 min",
+        "genre": "Action, Drama, Sport",
+        "description": "A young hot-shot stock car driver gets his chance to compete at the top level.",
+        "director": "Tony Scott",
+        "stars": [
+            "Tom Cruise",
+            "Nicole Kidman",
+            "Robert Duvall",
+            "Randy Quaid"
+        ]
+    },
+    "23": {
+        "name": "Cry-Baby",
+        "certificate": "PG13",
+        "runtime": "85 min",
+        "genre": "Comedy, Musical",
+        "description": "In 1950s Baltimore, a bad boy with a heart of gold wins the love of a good girl, whose boyfriend sets out for revenge.",
+        "director": "John Waters",
+        "stars": [
+            "Johnny Depp",
+            "Ricki Lake",
+            "Amy Locane",
+            "Susan Tyrrell"
+        ]
+    },
+    "24": {
+        "name": "Awakenings",
+        "certificate": "PG",
+        "runtime": "121 min",
+        "genre": "Biography, Drama",
+        "description": "The victims of an encephalitis epidemic many years ago have been catatonic ever since, but now a new drug offers the prospect of reviving them.",
+        "director": "Penny Marshall",
+        "stars": [
+            "Robert De Niro",
+            "Robin Williams",
+            "Julie Kavner",
+            "Ruth Nelson"
+        ]
+    },
+    "25": {
+        "name": "Mermaids",
+        "certificate": "NC-16",
+        "runtime": "110 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "An unconventional single mother relocates with her two daughters to a small Massachusetts town in 1963, where a number of events and relationships both challenge and strengthen their familial bonds.",
+        "director": "Richard Benjamin",
+        "stars": [
+            "Cher",
+            "Bob Hoskins",
+            "Winona Ryder",
+            "Michael Schoeffling"
+        ]
+    },
+    "26": {
+        "name": "The Hot Spot",
+        "certificate": "",
+        "runtime": "130 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "Upon arriving to a small town, a drifter quickly gets into trouble with the local authorities - and the local women - after he robs a bank.",
+        "director": "Dennis Hopper",
+        "stars": [
+            "Don Johnson",
+            "Virginia Madsen",
+            "Jennifer Connelly",
+            "Charles Martin Smith"
+        ]
+    },
+    "27": {
+        "name": "Lord of the Flies",
+        "certificate": "PG",
+        "runtime": "90 min",
+        "genre": "Adventure, Drama, Thriller",
+        "description": "Stranded on an island, a group of schoolboys degenerate into savagery.",
+        "director": "Harry Hook",
+        "stars": [
+            "Balthazar Getty",
+            "Chris Furrh",
+            "Danuel Pipoly",
+            "James Badge Dale"
+        ]
+    },
+    "28": {
+        "name": "Rocky V",
+        "certificate": "PG",
+        "runtime": "104 min",
+        "genre": "Drama, Sport",
+        "description": "Reluctantly retired from fighting, Rocky takes charge of Mickey's gym and agrees to train a young prot\u00e9g\u00e9 who's hungry for success.",
+        "director": "John G. Avildsen",
+        "stars": [
+            "Sylvester Stallone",
+            "Talia Shire",
+            "Burt Young",
+            "Sage Stallone"
+        ]
+    },
+    "29": {
+        "name": "The Witches",
+        "certificate": "PG",
+        "runtime": "91 min",
+        "genre": "Adventure, Comedy, Family",
+        "description": "A young boy stumbles onto a witch convention and must stop them, even after he has been turned into a mouse.",
+        "director": "Nicolas Roeg",
+        "stars": [
+            "Anjelica Huston",
+            "Mai Zetterling",
+            "Jasen Fisher",
+            "Rowan Atkinson"
+        ]
+    },
+    "30": {
+        "name": "King of New York",
+        "certificate": "",
+        "runtime": "103 min",
+        "genre": "Crime, Thriller",
+        "description": "A drug kingpin is released from prison and seeks to take total control of the criminal underworld in order to give back to the community.",
+        "director": "Abel Ferrara",
+        "stars": [
+            "Christopher Walken",
+            "David Caruso",
+            "Laurence Fishburne",
+            "Victor Argo"
+        ]
+    },
+    "31": {
+        "name": "Miller's Crossing",
+        "certificate": "NC-16",
+        "runtime": "115 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "Tom Reagan, an advisor to a Prohibition-era crime boss, tries to keep the peace between warring mobs but gets caught in divided loyalties.",
+        "director": "Joel Coen",
+        "stars": [
+            "Ethan Coen",
+            "Gabriel Byrne",
+            "Albert Finney",
+            "John Turturro",
+            "Marcia Gay Harden"
+        ]
+    },
+    "32": {
+        "name": "Pump Up the Volume",
+        "certificate": "PG",
+        "runtime": "102 min",
+        "genre": "Comedy, Drama, Music",
+        "description": "Mark runs a pirate radio station and causes an uproar when he speaks his mind and enthralls fellow teens.",
+        "director": "Allan Moyle",
+        "stars": [
+            "Christian Slater",
+            "Samantha Mathis",
+            "Anthony Lucero",
+            "Andy Romano"
+        ]
+    },
+    "33": {
+        "name": "Gremlins 2: The New Batch",
+        "certificate": "PG",
+        "runtime": "106 min",
+        "genre": "Comedy, Fantasy, Horror",
+        "description": "The Gremlins are back, and this time, they've taken control of a New York City media mogul's high-tech skyscraper.",
+        "director": "Joe Dante",
+        "stars": [
+            "Chuck Jones",
+            "Zach Galligan",
+            "Phoebe Cates",
+            "Howie Mandel",
+            "Tony Randall"
+        ]
+    },
+    "34": {
+        "name": "Flatliners",
+        "certificate": "M18",
+        "runtime": "115 min",
+        "genre": "Drama, Horror, Sci-Fi",
+        "description": "Five medical students experiment with \"near death\" experiences, until the dark consequences of past tragedies begin to jeopardize their lives.",
+        "director": "Joel Schumacher",
+        "stars": [
+            "Kiefer Sutherland",
+            "Kevin Bacon",
+            "Julia Roberts",
+            "William Baldwin"
+        ]
+    },
+    "35": {
+        "name": "The Handmaid's Tale",
+        "certificate": "M18",
+        "runtime": "109 min",
+        "genre": "Drama, Romance, Sci-Fi",
+        "description": "Under a dystopian religious tyranny, most women cannot conceive children. Those young women who can live in a form of sexual slavery to provide children for influential families.",
+        "director": "Volker Schl\u00f6ndorff",
+        "stars": [
+            "Natasha Richardson",
+            "Faye Dunaway",
+            "Aidan Quinn",
+            "Elizabeth McGovern"
+        ]
+    },
+    "36": {
+        "name": "Revenge",
+        "certificate": "M18",
+        "runtime": "124 min",
+        "genre": "Action, Crime, Drama",
+        "description": "A retired US Navy pilot comes to Mexico, where he falls in love with the wife of a powerful businessman. The consequences will be cruel and unforeseen.",
+        "director": "Tony Scott",
+        "stars": [
+            "Kevin Costner",
+            "Anthony Quinn",
+            "Madeleine Stowe",
+            "Tomas Milian"
+        ]
+    },
+    "37": {
+        "name": "The Bonfire of the Vanities",
+        "certificate": "NC-16",
+        "runtime": "125 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "After his mistress runs over a young teen, a Wall Street hotshot sees his life unravel in the spotlight and attracts the interest of a down-and-out reporter.",
+        "director": "Brian De Palma",
+        "stars": [
+            "Tom Hanks",
+            "Bruce Willis",
+            "Melanie Griffith",
+            "Kim Cattrall"
+        ]
+    },
+    "38": {
+        "name": "Lionheart",
+        "certificate": "M18",
+        "runtime": "108 min",
+        "genre": "Action, Crime, Drama",
+        "description": "An Ex-French Soldier begins participating in underground street fights in order to make money for his brother's family.",
+        "director": "Sheldon Lettich",
+        "stars": [
+            "Jean-Claude Van Damme",
+            "Harrison Page",
+            "Deborah Rennard",
+            "Lisa Pelikan"
+        ]
+    },
+    "39": {
+        "name": "Ski Patrol",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Action, Comedy, Sport",
+        "description": "A developer attempts to sabotage the safety record of a ski resort.",
+        "director": "Richard Correll",
+        "stars": [
+            "Roger Rose",
+            "T.K. Carter",
+            "Yvette Nipar",
+            "Leslie Jordan"
+        ]
+    },
+    "40": {
+        "name": "Young Guns II",
+        "certificate": "PG",
+        "runtime": "104 min",
+        "genre": "Action, Western",
+        "description": "In 1881, cattle baron John Chisum pays a bounty to Patrick Floyd Garrett to kill outlaw Billy the Kid.",
+        "director": "Geoff Murphy",
+        "stars": [
+            "Emilio Estevez",
+            "Kiefer Sutherland",
+            "Lou Diamond Phillips",
+            "Christian Slater"
+        ]
+    },
+    "41": {
+        "name": "Problem Child",
+        "certificate": "PG",
+        "runtime": "81 min",
+        "genre": "Comedy, Family",
+        "description": "A young boy is just short of a monster. He is adopted by a loving man and his wacky wife. The laughs keep coming as the boy pushes them to the limits.",
+        "director": "Dennis Dugan",
+        "stars": [
+            "Michael Oliver",
+            "John Ritter",
+            "Jack Warden",
+            "Gilbert Gottfried"
+        ]
+    },
+    "42": {
+        "name": "Nikita",
+        "certificate": "PG",
+        "runtime": "117 min",
+        "genre": "Action, Thriller",
+        "description": "Convicted felon, Nikita, isn't going to jail; she's given a new identity and trained, stylishly, as a top secret spy/assassin.",
+        "director": "Luc Besson",
+        "stars": [
+            "Anne Parillaud",
+            "Marc Duret",
+            "Patrick Fontana",
+            "Alain Lathi\u00e8re"
+        ]
+    },
+    "43": {
+        "name": "The Rescuers Down Under",
+        "certificate": "",
+        "runtime": "77 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "The R.A.S. agents, Miss Bianca and Bernard, race to Australia to save a little boy and a rare golden eagle from a murderous poacher.",
+        "director": "Hendel Butoy",
+        "stars": [
+            "Mike Gabriel",
+            "Bob Newhart",
+            "Eva Gabor",
+            "John Candy",
+            "Tristan Rogers"
+        ]
+    },
+    "44": {
+        "name": "Presumed Innocent",
+        "certificate": "M18",
+        "runtime": "127 min",
+        "genre": "Mystery, Thriller",
+        "description": "As a lawyer investigates the murder of a colleague, he finds himself more connected to the crime than anyone else.",
+        "director": "Alan J. Pakula",
+        "stars": [
+            "Harrison Ford",
+            "Raul Julia",
+            "Greta Scacchi",
+            "Brian Dennehy"
+        ]
+    },
+    "45": {
+        "name": "Joe Versus the Volcano",
+        "certificate": "PG",
+        "runtime": "102 min",
+        "genre": "Comedy, Romance",
+        "description": "When a hypochondriac learns that he is dying, he accepts an offer to throw himself in a volcano at a tropical island, and along the way there, learns to truly live.",
+        "director": "John Patrick Shanley",
+        "stars": [
+            "Tom Hanks",
+            "Meg Ryan",
+            "Lloyd Bridges",
+            "Robert Stack"
+        ]
+    },
+    "46": {
+        "name": "Nightbreed",
+        "certificate": "M18",
+        "runtime": "102 min",
+        "genre": "Action, Fantasy, Horror",
+        "description": "A troubled young man is drawn to a mythical place called Midian where a variety of friendly monsters are hiding from humanity. Meanwhile, a sadistic serial killer is looking for a patsy.",
+        "director": "Clive Barker",
+        "stars": [
+            "Craig Sheffer",
+            "David Cronenberg",
+            "Anne Bobby",
+            "Charles Haid"
+        ]
+    },
+    "47": {
+        "name": "Troll 2",
+        "certificate": "PG",
+        "runtime": "95 min",
+        "genre": "Comedy, Fantasy, Horror",
+        "description": "A vacationing family discovers that the entire town they're visiting is inhabited by goblins, disguised as humans, who plan to eat them.",
+        "director": "Claudio Fragasso",
+        "stars": [
+            "Michael Paul Stephenson",
+            "George Hardy",
+            "Margo Prey",
+            "Connie Young"
+        ]
+    },
+    "48": {
+        "name": "The Freshman",
+        "certificate": "PG",
+        "runtime": "102 min",
+        "genre": "Comedy, Crime",
+        "description": "An N.Y.C. film school student accepts a job with a local mobster who resembles a famous cinema godfather and who takes the young man under his wing, after demanding total loyalty.",
+        "director": "Andrew Bergman",
+        "stars": [
+            "Marlon Brando",
+            "Matthew Broderick",
+            "Bruno Kirby",
+            "Penelope Ann Miller"
+        ]
+    },
+    "49": {
+        "name": "Arachnophobia",
+        "certificate": "PG",
+        "runtime": "109 min",
+        "genre": "Comedy, Horror, Thriller",
+        "description": "A species of South American killer spider hitches a lift to the U.S. in a coffin and starts to breed and kill.",
+        "director": "Frank Marshall",
+        "stars": [
+            "Jeff Daniels",
+            "Julian Sands",
+            "John Goodman",
+            "Harley Jane Kozak"
+        ]
+    },
+    "50": {
+        "name": "Internal Affairs",
+        "certificate": "M18",
+        "runtime": "115 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "An Internal Affairs agent becomes obsessed with bringing down a cop who has managed to maintain a spotless reputation despite being involved in a web of corruption.",
+        "director": "Mike Figgis",
+        "stars": [
+            "Richard Gere",
+            "Andy Garcia",
+            "Nancy Travis",
+            "Laurie Metcalf"
+        ]
+    }
+}
