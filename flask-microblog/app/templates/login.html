@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Sign In</h1>
+    <form action = ""method="post" novalidate> <!--novalidate set so that server side flask app handles validation-->
+        {{ form.hidden_tag() }} <!--gens hidden field that includes a token used to protect against CSRF attacks, needs SECRET_KEY defined in flask config-->
+        <p>
+            {{ form.username.label }}<br>
+            {{ form.username(size=32) }}
+            {% for error in form.username.errors %} <!--prints error msg if invalid input-->
+            <!--any fields with validators attached will have form.name.errors-->
+            <!--error is in list as can have multiple validator and errors-->
+            <span style="color : red;">[{{ error }}]</span>
+            {% endfor %}
+        </p>
+        <p>
+            {{ form.password.label }}<br>
+            {{ form.password(size=32) }} <!--setting attributes, this is how css classes or ids can be set to form fields also-->
+            {% for error in form.password.errors %}
+            <span style="color : red;">[{{ error }}]</span>
+            {% endfor %}
+        </p>
+        <p>
+            {{ form.remember_me() }} {{ form.remember_me.label }}
+        </p>
+        <p>
+            {{ form.submit() }}
+        </p>
+    </form>
+{% endblock %}

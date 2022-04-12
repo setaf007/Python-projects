@@ -9,8 +9,20 @@
         {% endif %}
     </head>
     <body>
-        <div>Microblog: <a href="/index">Home</a></div>
+        <div>Microblog: 
+            <a href="{{ url_for('index') }}">Home</a> <!--url_for() flask function used to gen /name as urls may change-->
+            <a href="{{ url_for('login') }}">Login</a>
+        </div>
         <hr>
+        {% with messages = get_flashed_messages() %} <!--flask function used to get messages registered in flash-->
+        {% if messages %}
+        <ul>
+            {% for message in messages %}
+            <li>{{ message }}</li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+        {% endwith %}
         {% block content %}{% endblock %}
         <!--block control to define where derived templates can insert-->
     </body>
